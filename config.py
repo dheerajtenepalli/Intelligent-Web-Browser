@@ -1,0 +1,11 @@
+discovery_user_name = '7466298b-e789-4770-878c-a2d642dacc21'
+discovery_password = 'Phwb4NRwiHue'
+discovery_version = '2017-11-07'
+date_condition = "crawl_date > 2018-01-01"
+docs_to_return_from_watson = 50
+docs_to_be_processed = 5
+cutoff = 0.8
+conversation_username = "d3bd8bf3-7d32-4215-9bd0-4558a63dfc27"
+conversation_password = "7pA1Uuu0ZWfq"
+conversation_workspace_id = "aa066eff-cfca-4332-8f8b-d0c8222fc514"
+conversation_version = '2017-05-26'

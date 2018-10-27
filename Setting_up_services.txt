@@ -1,0 +1,9 @@
+Setting up conversation and discovery:-
+	Create a conversation instance on IBM cloud.
+	You will need a free trial account on IBM.
+	Go to the search bar and search for "conversation" or "discovery" service
+	In the results choose the service and plan accordingly and create it.
+	After creating,go to the dasboard and click on the instance you just created.
+	After that launch your service or take a note of credentials.
+	For Conversation,you can import the provided json to create intents,entities and dialog flow.
+	For discovery news you just record the parameters like username,password,collection and environment id.

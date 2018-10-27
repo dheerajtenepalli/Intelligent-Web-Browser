@@ -1,0 +1,24 @@
+To verify direcly look at the deployed application in bluemix through the deployed link in the deployed_link.txt
+Link--> https://whatsonwatsonfinal.eu-gb.mybluemix.net/
+To verify manually,
+	## Local Installation:
+
+	When Running locally use "app.run()" in the if __main__ in the app.py file.	
+	1. run `pip install -r requirements.txt`).
+	2. Run *app.py*
+	3. Demo will be live at [http://localhost:5000/](http://localhost:5000/)
+
+ 
+To verify by deploying it to IBM cloud,
+
+	You need a IBM cloud account,cloud foundry tool(CLI kit ) i.e cf commads
+	And conversation and discovery instances up and running.
+	Use command --> "cf login" to login using mail id and password into your account.
+	Use United kingdom api point(eu-gb.mybluemix.net) while logging in if prompted.
+	use command "cf push yourapp_name" to push the flask code into bluemix cloud.
+	
+	
+
+
+	
+	

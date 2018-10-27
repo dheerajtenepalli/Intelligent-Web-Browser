@@ -1,0 +1,2 @@
+filter---enriched_text.keywords.text:"Innovation",enriched_text.keywords.text:"Network",enriched_text.keywords.text:"Platforms"
+query----enriched_text.entities.type:"company"
