@@ -30,8 +30,6 @@ def handle_data():
 	results = cognitive_search.rank_the_results_based_on_relevance(search_results)	
 	#print(results)
 	list_of_dict = wc.intelligent_crawler(results,search_string_parameters)
-	print("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
-	print(list_of_dict)
 	return render_template("result.html",result = list_of_dict)
 	
 if __name__ == "__main__":
