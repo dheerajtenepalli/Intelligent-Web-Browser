@@ -1,5 +1,4 @@
-To verify direcly look at the deployed application in bluemix through the deployed link in the deployed_link.txt
-Link--> https://whatsonwatsonfinal.eu-gb.mybluemix.net/
+
 To verify manually,
 	## Local Installation:
 
