@@ -9,7 +9,7 @@ ports = int(os.getenv('PORT', 8000)) #Setting port automatically
 @app.route("/")
 def home():
 	"""Upon 
-wser refresh it renders html and sets all variables"""
+user refresh it renders html and sets all variables"""
 	return render_template("index.html")
 
 @app.route("/get")
